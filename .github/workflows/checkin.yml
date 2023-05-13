@@ -36,13 +36,13 @@ jobs:
       # 设置环境变量，不同语言获取环境变量方式不同
       env: 
         SCKEY: ${{ secrets.SCKEY }}
-        COOKIE: ${{ secrets.COOKIE }}
-        SJCOOKIE: ${{ secrets.SJCOOKIE }}
+        COOKIE: ${{ HxHg_2132_saltkey=Zmgz1WsS; HxHg_2132_lastvisit=1684005206; HxHg_2132_sendmail=1; Hm_lvt_6c1cdfd1254d8b1be9c00f4cdfe0c69e=1684008807; _ga=GA1.1.1507599302.1684008808; HxHg_2132_backreferer=https%3A%2F%2Fwww.hao4k.cn%2F; HxHg_2132_ulastactivity=1684008814%7C0; HxHg_2132_auth=db84sD7pMqH8IZrSy0H%2BNSJWe6oO%2BtQfNCCCdKbxkpT%2BXhA%2BwHXidbel5dhInjy8jsH8qcybZLVb%2FIJohNWiXXCfpMly; HxHg_2132_sid=0; HxHg_2132_connect_is_bind=0; HxHg_2132_myrepeat_rr=R0; _ga_T59XBL4FQ7=GS1.1.1684008807.1.1.1684008815.0.0.0; HxHg_2132_checkpm=1; HxHg_2132_lastact=1684008815%09plugin.php%09; Hm_lpvt_6c1cdfd1254d8b1be9c00f4cdfe0c69e=1684008815 }}
+        SJCOOKIE: ${{ HxHg_2132_lastvisit=1684002304; HxHg_2132_saltkey=BOyo05r0; _ga=GA1.1.238043921.1684005905; HxHg_2132_ulastactivity=1684007365%7C0; HxHg_2132_auth=cabaBgaboxOL9h%2FtQKsRGbobVaCA4dtDbP8PwOctV9e6MuuNvh0AEtc2RXwPFhI2kVs4%2B2JB%2B2TKMcP%2FM%2B9Nc%2FSjqXbM; HxHg_2132_lastcheckfeed=1273393%7C1684007365; HxHg_2132_lip=114.37.209.135%2C1684007365; HxHg_2132_myrepeat_rr=R0; HxHg_2132_sid=0; _ga_Z9KZWHG9R0=GS1.1.1684005905.1.1.1684007418.0.0.0; HxHg_2132_lastact=1684007418%09misc.php%09patch }}
         PPTOKEN : ${{ secrets.PPTOKEN }}
         PDKEY : ${{ secrets.PDKEY  }}
         BARKKEY : ${{ secrets.BARKKEY  }}
         BARKSERVER : ${{ secrets.BARKSERVER  }}
-        CHECKHOST : ${{ secrets.CHECKHOST  }}
+        CHECKHOST : ${{ hao4k,4ksj  }}
 
 
 
